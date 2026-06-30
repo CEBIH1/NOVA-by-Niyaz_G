@@ -2,7 +2,7 @@
 // Базовый модуль для всех запросов к бэкенду
 
 // Адрес сервера. Когда проект будет на другом сервере, поменять здесь.
-const BASE_URL = 'http://localhost:3000/api'
+const BASE_URL = 'https://nova-by-niyaz-g.onrender.com/api'
 
 /**
  * Универсальная функция для GET-запросов к API.
